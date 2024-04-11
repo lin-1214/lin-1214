@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yung-Yi Lin</h1>
 <h3 align="center">A student from NTUEE, Taiwan.</h3>
+<h3 align="center">Leader of 2024NTUEE Lightdance.</h3>
 
 - 🔭 I’m currently working on **SCA lab.**
 
