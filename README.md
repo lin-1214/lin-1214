@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **b10901059@g.ntu.edu.tw**
 
-- ⚡ Fun fact **I am an easy going person, and I really enjoy working together as a team.**
+- ⚡ Fun fact **I am an easy going person, and I really enjoy working together as a team. Nice to meet you guys！**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
