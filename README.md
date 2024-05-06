@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Yung-Yi Lin</h1>
+<h1 align="center">Hi 👋, I'm Yung-Yi Lin</h1>
 <h3 align="center">A student from NTUEE, Taiwan.</h3>
 <h3 align="center">Member of NTUEE Info department(2021~2022)</h3>
 <h3 align="center">Leader of NTUEE Lightdance(2024).</h3>
