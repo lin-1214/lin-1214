@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lin-1214](https://github.com/lin-1214)
 
-- 💬 Ask me about **React, Python**
-
 - ⚡ Fun fact **I am an easy going person, and I really enjoy working together as a team. Nice to meet you guys！**
 
 ## ✨ Connect with me:
