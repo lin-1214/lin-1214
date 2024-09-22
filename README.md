@@ -2,6 +2,15 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&center=true&vCenter=true&random=false&width=480&lines=Hi%F0%9F%91%8B%2C+I'm+Yung-Yi+Lin;Welcome+to+my+Github+page+!" alt="Typing SVG" /></a>
 </p>
 
+<p font-size="3px"> Help save my github contributions, the snake is eating all of them! </p>
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./svg/github-user-contribution-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./svg/github-user-contribution-light.svg">
+  <img alt="github contribution grid snake animation" src="./svg/github-user-contribution-dark.svg">
+</picture>
+
 <div align="center">
     <h2>🚀 Whoami</h2>
     <h3 align="center">A student from NTUEE, Taiwan.</h3>
