@@ -40,5 +40,5 @@
 
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lin-1214&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lin-1214&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lin-1214&exclude_repo=2024Spring_ESLAB_Final&hide=verilog,html,qml,matlab,css,makefile&theme=tokyonight" />&nbsp;&nbsp;
 </p>
