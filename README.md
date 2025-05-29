@@ -18,9 +18,9 @@
     <h3 align="center">Leader of NTUEE Lightdance ( 2024 ).</h3>
 </div>
 
-- 🔭 I’m currently working on **SCA lab.**
+- 🔭 I’m currently working on **Side-Channel Analysis lab & Digital Image and Signal Processing lab.**
 
-- 🌱 I’m currently learning **Post-quantum cryptogrophy & TLS**
+- 🌱 I’m currently learning **Post-quantum TLS & Financial Signal Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lin-1214](https://github.com/lin-1214)
 
