@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6DD5FA&height=200&section=header&text=Yung-Yi%20(Vincent)%20Lin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Security&descAlignY=58&descSize=20" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C41230,100:6D6E71&height=200&section=header&text=Yung-Yi%20(Vincent)%20Lin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Security&descAlignY=58&descSize=20" alt="header banner" />
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&center=true&vCenter=true&random=false&width=560&lines=Hi%F0%9F%91%8B%2C+I'm+Vincent%2C+nice+to+meet+you%21;  Incoming+MS+ECE+%40+Carnegie+Mellon" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&center=true&vCenter=true&random=false&width=560&color=C41230&lines=Hi%F0%9F%91%8B%2C+I'm+Vincent%2C+nice+to+meet+you%21;  Incoming+MS+ECE+%40+Carnegie+Mellon" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> Help save my github contributions, the snake is eating all of them! </p>
@@ -31,10 +31,10 @@
 - ⚡ Fun fact: **I'm an easy-going, outgoing person who loves collaborating — whether it's leading a student org or pairing on a research problem. Always happy to connect and swap ideas, so don't be shy to say hi!**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cybersecurity-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-C41230?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-6D6E71?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-C41230?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity-6D6E71?style=flat-square" />
 </p>
 
 ## ✨ Connect with me:
@@ -52,12 +52,12 @@
 ## 🏆 My Stats:
 
 <p align="center">
-    <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lin-1214&theme=blue-green" />
+    <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lin-1214&theme=graywhite" />
 </p>
 <p align="center">
-    <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lin-1214&theme=blue-green" />
+    <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lin-1214&theme=graywhite" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:0077B5&height=120&section=footer" alt="footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D6E71,100:C41230&height=120&section=footer" alt="footer banner" />
 </p>
