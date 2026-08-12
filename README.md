@@ -1,8 +1,12 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&center=true&vCenter=true&random=false&width=480&lines=Hi%F0%9F%91%8B%2C+I'm+Yung-Yi+Lin;Welcome+to+my+Github+page+!" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6DD5FA&height=200&section=header&text=Yung-Yi%20(Vincent)%20Lin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Security&descAlignY=58&descSize=20" alt="header banner" />
 </p>
 
-<p font-size="3px"> Help save my github contributions, the snake is eating all of them! </p>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&center=true&vCenter=true&random=false&width=560&lines=Hi%F0%9F%91%8B%2C+I'm+Vincent%2C+nice+to+meet+you%21;Incoming+MS+ECE+%40+Carnegie+Mellon+University;Always+up+for+a+chat+about+AI%2C+ML%2C+or+security" alt="Typing SVG" /></a>
+</p>
+
+<p align="center"> Help save my github contributions, the snake is eating all of them! </p>
 
 <br>
 <picture>
@@ -13,24 +17,33 @@
 
 <div align="center">
     <h2>🚀 Whoami</h2>
-    <h3 align="center">A student from NTUEE, Taiwan.</h3>
-    <h3 align="center">Member of NTUEE Info department ( 2021~2022 )</h3>
-    <h3 align="center">Leader of NTUEE Lightdance ( 2024 ).</h3>
+    <h3 align="center">🎓 M.S. in Electrical & Computer Engineering @ Carnegie Mellon University (Fall 2026)</h3>
+    <h3 align="center">🎓 B.S. in Electrical Engineering @ National Taiwan University</h3>
+    <h3 align="center">🤝 Coordinator, NTUEE Summer Camp & NTUEE Lightdance ( 2024 )</h3>
 </div>
 
-- 🔭 I’m currently working on **Side-Channel Analysis lab & Digital Image and Signal Processing lab.**
+- 🔭 I've been doing research across **LLM-powered recommender systems, post-quantum TLS, and financial time-series forecasting** at NTU, ITRI, and Academia Sinica.
 
-- 🌱 I’m currently learning **Post-quantum TLS & Financial Signal Processing**
+- 🌱 I'm currently leveling up on **AI infrastructure & systems** as I get ready to start at CMU.
 
 - 👨‍💻 All of my projects are available at [https://github.com/lin-1214](https://github.com/lin-1214)
 
-- ⚡ Fun fact **I am an easy going person, and I really enjoy working together as a team. Nice to meet you guys！**
+- ⚡ Fun fact: **I'm an easy-going, outgoing person who loves collaborating — whether it's leading a student org or pairing on a research problem. Always happy to connect and swap ideas, so don't be shy to say hi!**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity-black?style=flat-square" />
+</p>
 
 ## ✨ Connect with me:
 
+📫 I'm always happy to connect — please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/lin1214)!
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lin1214) &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yylin1214) &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b10901059@g.ntu.edu.tw) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ylin82051@gmail.com) &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005903082383) &nbsp;
 
 ## 🗿 Language and Tools
@@ -39,6 +52,9 @@
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lin-1214&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lin-1214&layout=compact&exclude_repo=2024Spring_ESLAB_Final,IOT_Introduction_Final&hide=verilog,html,qml,matlab,css,makefile&theme=tokyonight&count_private=true" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lin-1214&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:0077B5&height=120&section=footer" alt="footer banner" />
 </p>
