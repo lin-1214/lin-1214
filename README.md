@@ -51,8 +51,11 @@
 
 ## 🏆 My Stats:
 
-<p>
-    <img height=175 alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lin-1214&theme=tokyonight&hide_border=true" />
+<p align="center">
+    <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lin-1214&theme=blue-green" />
+</p>
+<p align="center">
+    <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lin-1214&theme=blue-green" />
 </p>
 
 <p align="center">
