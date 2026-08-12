@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&center=true&vCenter=true&random=false&width=560&color=C41230&lines=Hi%F0%9F%91%8B%2C+I'm+Vincent%2C+nice+to+meet+you%21;  Incoming+MS+ECE+%40+Carnegie+Mellon" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&center=true&vCenter=true&random=false&width=560&color=C41230&lines=Hi%F0%9F%91%8B%2C+I%27m+Vincent%2C+nice+to+meet+you%21;Incoming+MS+ECE+%40+Carnegie+Mellon" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> Help save my github contributions, the snake is eating all of them! </p>
